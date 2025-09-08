@@ -26,7 +26,7 @@ Exportado y optimizado para integración en plataformas interactivas.
 
 ## 📂 Estructura del repo
 - `assets/` → GIFs, imágenes y capturas de demostración.  
-- `docs/` → demo estático (opcional, usado para GitHub Pages).  
+  
 
 ---
 
