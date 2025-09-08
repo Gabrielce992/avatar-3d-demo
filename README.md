@@ -9,8 +9,8 @@ Exportado y optimizado para integración en plataformas interactivas.
 ---
 
 ## 🎥 Demo (gif / video)
-![Demo corta](penguingif.gif)
-![Captura alternativa](penguinscreenshoot.JPG)
+![Demo corta](assets/penguingif.gif)
+![Captura alternativa](assets/penguinscreenshoot.JPG)
 
 
 
