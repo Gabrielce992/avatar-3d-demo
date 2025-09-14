@@ -37,6 +37,6 @@ El proyecto completo (archivos de Blender, Unity y scripts) está en un **reposi
 
 ---
 
-## 📬 Contacto / CV
-Si quieres revisar el código o una demo privada, escríbeme a: tu.email@ejemplo.com  
+## 📬 Contacto 
+gabrielce992@gmail.com
 
